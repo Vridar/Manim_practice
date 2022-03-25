@@ -2,8 +2,8 @@ from manim import *
 
 class ManimVridarLogo(Scene):
     def construct(self):
-        self.camera.background_color = "black"
-        logo_green = "#853c2a5"
+        self.camera.background_color = "#ece6e2"
+        logo_green = "#87c2a5"
         logo_blue = "#525893"
         logo_red = "#e07a5f"
         logo_black = "#343434"
