@@ -16,4 +16,4 @@ class ManimVridarLogo(Scene):
         logo.move_to(ORIGIN)
         self.add(logo)
         
-        # success second one maybe not
+        # success second one
