@@ -8,4 +8,4 @@ class CreateCircle(Scene):
         self.play(Create(circle))  # show the circle on screen
 
 #for testing laptop manim
-#quite well
+#quite well..?
